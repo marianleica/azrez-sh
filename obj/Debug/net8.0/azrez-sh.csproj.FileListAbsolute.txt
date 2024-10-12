@@ -1,0 +1,14 @@
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.AssemblyInfoInputs.cache
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.AssemblyInfo.cs
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.csproj.CoreCompileInputs.cache
+/Users/marianleica/Build/projects/azrez-sh/bin/Debug/net8.0/azrez-sh
+/Users/marianleica/Build/projects/azrez-sh/bin/Debug/net8.0/azrez-sh.deps.json
+/Users/marianleica/Build/projects/azrez-sh/bin/Debug/net8.0/azrez-sh.runtimeconfig.json
+/Users/marianleica/Build/projects/azrez-sh/bin/Debug/net8.0/azrez-sh.dll
+/Users/marianleica/Build/projects/azrez-sh/bin/Debug/net8.0/azrez-sh.pdb
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.dll
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/refint/azrez-sh.dll
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.pdb
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/azrez-sh.genruntimeconfig.cache
+/Users/marianleica/Build/projects/azrez-sh/obj/Debug/net8.0/ref/azrez-sh.dll
