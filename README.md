@@ -1,2 +1,2 @@
 # azrez-sh
-A starting sh console app of azure
+A starting sh console app of azrez
